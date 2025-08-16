@@ -4,3 +4,4 @@ just changing how README.md looks
 
 trying vs code now
 
+adding things here 
